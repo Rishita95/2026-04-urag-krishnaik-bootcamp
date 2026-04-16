@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "01-urag-knowledge-base": "https://github.com/Rishita95/01-urag-knowledge-base.git",
+    "02-urag-sandbox-langchain": "https://github.com/Rishita95/02-urag-sandbox-langchain.git"
+  }
+}
