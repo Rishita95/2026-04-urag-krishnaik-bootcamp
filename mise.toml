@@ -1,4 +1,6 @@
 [tools]
 node = "latest"
 "npm:meta" = "latest"
+"pipx:litellm" = { version = "latest", extras = "proxy" }
 tilt = "latest"
+uv = "latest"
