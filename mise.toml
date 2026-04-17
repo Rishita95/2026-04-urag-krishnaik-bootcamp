@@ -2,5 +2,6 @@
 node = "latest"
 "npm:meta" = "latest"
 "pipx:litellm" = { version = "latest", extras = "proxy" }
+"pipx:prisma" = "latest"
 tilt = "latest"
 uv = "latest"
