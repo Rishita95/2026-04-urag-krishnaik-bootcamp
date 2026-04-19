@@ -1,5 +1,6 @@
 {
   "projects": {
+    "00-urag-shared-infra": "https://github.com/kbhatiya999/00-urag-shared-infra.git",
     "01-urag-knowledge-base": "https://github.com/Rishita95/01-urag-knowledge-base.git",
     "02-urag-sandbox-langchain": "https://github.com/Rishita95/02-urag-sandbox-langchain.git",
     "03-urag-inst-langchain": "https://github.com/kbhatiya999/03-urag-inst-langchain.git"
