@@ -1,8 +1,7 @@
 [tools]
-node = "latest"
-"npm:meta" = "latest"
-"npm:meta-gh" = "latest"
-"pipx:litellm" = { version = "latest", extras = "proxy" }
-"pipx:prisma" = "latest"
-tilt = "latest"
-uv = "latest"
+node = "25.9.0"
+"npm:meta" = "2.2.25"
+"pipx:litellm" = { version = "1.83.13", extras = "proxy" }
+"pipx:prisma" = "0.15.0"
+tilt = "0.37.1"
+uv = "0.11.7"

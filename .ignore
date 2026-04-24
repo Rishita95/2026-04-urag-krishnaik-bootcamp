@@ -1,0 +1,12 @@
+# include all files
+!*
+# include all dirs
+!*/
+
+# Exclude node_modules in monorepo
+**/node_modules
+**/.venv
+
+
+
+
