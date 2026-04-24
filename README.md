@@ -2,12 +2,21 @@
 
 ## Meta Commands
 
-To switch branches across all projects, use the following `meta` commands:
+To ensure you are working with the latest code, always create new branches from an up-to-date `main` branch across all projects:
 
 ```bash
-# Checkout an existing branch in all projects
-meta git checkout <branch-name>
+# 1. Switch to main in all projects
+meta git checkout main
 
-# Create and checkout a new branch in all projects
+# 2. Pull the latest changes from main in all projects
+meta git pull origin main
+
+# 3. Create and checkout a new branch in all projects
 meta git checkout -b <new-branch-name>
+```
+
+To just switch to an existing branch across all projects:
+
+```bash
+meta git checkout <branch-name>
 ```
