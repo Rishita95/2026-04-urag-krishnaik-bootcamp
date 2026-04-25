@@ -1,0 +1,14 @@
+# include all files for IDE
+!*
+# include all dirs for IDE
+!*/
+
+# Ignore Files And Folders For IDE
+# npm
+**/node_modules
+**/package-lock.json
+**/package.json
+
+
+
+

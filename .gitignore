@@ -2,3 +2,10 @@
 /01-urag-knowledge-base/
 /02-urag-sandbox-langchain/
 /03-urag-inst-langchain/
+
+# npm
+**/node_modules
+**/package-lock.json
+**/package.json
+
+
