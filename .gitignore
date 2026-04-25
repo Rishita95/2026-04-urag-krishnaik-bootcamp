@@ -4,5 +4,8 @@
 /03-urag-inst-langchain/
 
 # npm
+**/node_modules
+**/package-lock.json
+**/package.json
 
 

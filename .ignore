@@ -1,11 +1,13 @@
-# include all files
+# include all files for IDE
 !*
-# include all dirs
+# include all dirs for IDE
 !*/
 
-# Exclude node_modules in monorepo
+# Ignore Files And Folders For IDE
+# npm
 **/node_modules
-**/.venv
+**/package-lock.json
+**/package.json
 
 
 
